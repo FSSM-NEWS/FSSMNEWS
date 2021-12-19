@@ -20,11 +20,20 @@
     
 }
 
-.back {
-   background-image: url(/css/img/even.jpg);
-   background-size: cover;
+body {
+   
+    background-image: url(img/act.jpg);
+    background-size: cover;
     margin: 0;
-    width: 100%; 
+    width: 100%;
+
+}
+
+.back {
+    
+    background-color: black;
+    background-size:cover;
+    
     
     
 }
