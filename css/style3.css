@@ -22,7 +22,7 @@
 
 body {
    
-    background-image: url(img/act.jpg);
+    background-image: url(img/even.jpg);
     background-size: cover;
     margin: 0;
     width: 100%;
@@ -31,7 +31,6 @@ body {
 
 .back {
     
-    background-color: black;
     background-size:cover;
     
     
