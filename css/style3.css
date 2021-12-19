@@ -21,13 +21,13 @@
 }
 
 .back {
-   background-image: url(/css/img/even.jpg);
+   background-image: url(css/img/even.jpg);
    background-size: cover;
     
     
 }
 body {
-   background-image: url(/css/img/even.jpg);
+   background-image: url(css/img/even.jpg);
 
     margin: 0;
     width: 100%;
