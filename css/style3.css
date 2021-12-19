@@ -19,20 +19,20 @@
     
     
 }
-
 .back {
-        background-color: #000;
-    
+   background-image: url(/css/img/even.jpg);
+   background-size: cover;
     
     
 }
 body {
-    background-color: #000;
+   background-image: url(/css/img/even.jpg);
 
     margin: 0;
     width: 100%;
 
 }
+
 
 
 
