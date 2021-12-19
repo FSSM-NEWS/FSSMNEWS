@@ -1,0 +1,456 @@
+
+@keyframes menu {
+    
+    0% {top: 0px;opacity:0%;}
+    50%{top:5px;opacity:5%;}
+    100%{top:10px;opacity: 10%;}
+    
+    
+}
+
+
+
+.logo {
+ 
+  position: relative;    
+  bottom:20px;
+      
+  
+    
+    
+}
+
+.back {
+    
+   background-color: black;
+    
+    width: 100%;
+    margin: 0;
+    
+}
+
+
+
+
+
+.acc{
+    
+    position: relative;
+    left:72rem; 
+    bottom: 7.05rem;
+    
+    
+}
+
+
+.act  {
+    position: relative;
+    left:72rem ;
+    width: 3%;
+    bottom: 7.1rem;
+    padding-left: 15px;
+}
+
+.eve {
+     position: relative;
+     width: 2.35%; 
+     left:72rem;
+    bottom: 7.3rem;
+    padding-left: 15px;
+    
+}
+
+
+.his{
+    
+    position: relative;
+    width:6%;
+    bottom: 6.9rem;
+    left: 72rem;
+    padding-left: 1px;
+    
+}
+
+.title_br {
+    
+    position: relative;
+    width: 140px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 70px;
+    bottom: 5rem;
+    z-index: 1;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    left: 20rem;
+    border-left-color:rgb(0,0,0,0);
+    border-right-color:rgb(0,0,0,0);
+    
+    
+    
+}
+.europe {
+    
+    position: relative;
+    left: 20rem;
+    bottom: 15rem;
+    width: 50%;
+    border-radius: 2px;
+    
+    
+    
+    
+}
+
+
+.text p {
+    
+    
+    position: relative;
+    bottom: 11rem;
+    left: 42rem;
+    font-size: 15px;
+    font-family:'Varela Round';
+    color: white;
+    text-align:left;
+    padding: 0;
+    margin: 0;
+    width: 400px;
+    
+    
+}
+
+
+.first::first-letter {
+  font-size: 200%;
+}
+
+.text ul {
+    
+    position: relative;
+    color: white;
+    font-size: 15px;
+    font-family:'Varela Round';
+    width: 420px;
+    bottom: 11rem;
+    left: 43rem;
+    margin: 0;
+    padding-top: 5px;
+    padding-left: 0;
+    
+    
+}
+
+.text span {
+    
+    position: relative;
+    color: white;
+    font-size: 15px;
+    font-family:'Varela Round';
+    width: 420px;
+    bottom: 10.5rem;
+    left: 42rem;
+    
+}
+
+
+
+.ul2 ul {
+    
+    
+    position: relative;
+    padding-top: 10px;
+    
+    
+    
+    
+}
+
+.form {
+    
+    position: relative;
+    width: 200px;
+    bottom: 30rem;
+    left: 20rem;
+    
+    
+    
+}
+.form a {
+    
+    
+    color:dimgrey;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bolder;
+    font-family:'Varela Round';
+    width:200px; 
+    
+}
+
+
+
+.learn {
+    position: relative;
+    width: 200px;
+    bottom: 30rem;
+    left: 20rem;
+    padding-top: 10px;
+    
+}
+.learn a {
+    
+    color:dimgrey;
+    text-decoration: none;
+    font-size: 15px;
+    font-family:'Varela Round';
+    width:200px; 
+     
+
+}
+
+footer {
+  position: relative;
+  height:300px;    
+  background-color: white;
+
+}
+.second span {
+    content: ''; 
+    color: white;
+    position: absolute;
+    font-family: sans-serif;
+    border-color: white;
+    border-style: solid;
+    font-size: 48px;
+    top: 180px;
+    margin-left: 10px;
+    
+}    
+    
+.second a p {
+    
+    text-decoration:none;
+    color: white;
+    position: absolute;
+    font-family: 15px;
+    font-family: 'Outfit';
+    top: 167px;
+    left: 80px;
+    
+    
+    
+    
+}  
+
+
+.third span {
+     content: ''; 
+    color: white;
+    position: absolute;
+    font-family: sans-serif;
+    border-color: white;
+    border-style: solid;
+    font-size: 48px;
+    top: 280px;
+    margin-left: 10px;
+    
+    
+}
+
+
+.third a p {
+    
+    text-decoration:none;
+    color: white;
+    position: absolute;
+    font-family: 15px;
+    font-family: 'Outfit';
+    top: 267px;
+    left: 80px;
+    
+    
+    
+}
+
+
+.events a span {
+    
+    
+    text-decoration: none;
+    display: flex;
+    color: cadetblue;
+    position: absolute;
+    font-family:'Varela Round';
+    width: 200px;
+    top: 400px;
+    font-weight: bold;
+    font-size: 18px;
+    padding-left: 15px;
+}
+
+
+
+.fssm {
+    
+    position: absolute;
+    padding-top:3em ;
+    padding-left: 10em
+    
+    
+    
+}
+
+
+
+.menu_f ul {
+    
+    position: absolute;
+    bottom: 40px;
+    left: 30em;
+    list-style: none;
+    margin: 0;
+    padding-top: 5px;
+    
+    
+}
+
+.menu_f p {
+    position: absolute;
+    font-family: 'Outfit';
+    font-size: 20px;
+    margin:0;
+    bottom: 9em;
+    
+    
+}
+
+.menu_f li a {
+    color: black;
+    text-decoration: none;
+    font-family:'Varela Round';
+    opacity: 70%;
+    
+    
+    
+}
+
+.menu_padd li{
+    
+    padding-bottom: 20px;
+    top: 50px;
+
+    
+    
+    
+    
+}
+.menu_f a:hover {
+    
+    color: #089aac;
+    
+    
+} 
+
+
+
+
+
+
+
+   
+    
+    
+.add p {
+    
+    
+    position: absolute;
+    bottom:11em;
+    left: 38em;
+    margin:0;
+    font-family:'Outfit',sans-serif;
+    font-size: 20px;
+    
+}
+.add span {
+    position: absolute;
+    bottom: 11.3em;
+    left: 42em;
+    color: black;
+    opacity: 70%;
+    font-family: 'Cardo';
+    margin: 0;
+}
+
+.loca {
+    
+    position: absolute;
+    bottom:4em;
+    left:44.5em ;
+    width: 13%;
+    border-radius: 20px;
+    margin: 0;
+    
+    
+}
+
+.add ul a {
+    position: absolute;
+    text-decoration: none;
+    color:#089aac;
+    left: 50em;
+    bottom:2.5em;
+    
+}
+
+.add ul a:hover {
+    
+    opacity: 70%;
+    
+}
+
+
+
+
+.credit ul p {
+    position: absolute;
+    margin: 0;
+    left:55em;
+    bottom: 11em;
+    font-family:'Outfit';
+    font-size:20px;
+    
+    
+    
+}
+
+
+.credit ul span {
+ 
+ position: absolute; 
+ margin: 0;
+ padding-bottom: 0px;    
+ font-size: 90px;
+ color: darkcyan;
+ bottom: 3px;    
+ left: 12.1em;
+ font-family:'Comforter';    
+ 
+    
+}
+
+.credit ul span p {
+    
+    position: relative;
+    left: 7rem;
+    bottom: 55px;
+    font-size: 45px;
+    margin: 0;
+    color:darkcyan ;
+}
+
+
+
+
+
+
