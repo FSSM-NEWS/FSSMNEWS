@@ -22,7 +22,9 @@
 
 .back {
     
-background-image: url(img/his.jpg);    
+background-image: url(img/his.jpg);  
+    margin: 0;
+    width: 100%;   
     
     
 }
